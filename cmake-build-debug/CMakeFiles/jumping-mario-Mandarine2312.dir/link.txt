@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/jumping-mario-Mandarine2312.dir/main.cpp.o  -o jumping-mario-Mandarine2312 
